@@ -1,2 +1,2 @@
 # authForm
-authorize form with session, filter, listener
+authorization form with session, filter, listener
